@@ -1,3 +1,3 @@
 function demoFunction() {
-    document.getElementById("first").innerHTML="Pargraph contents modified by a demoFunction";
+    document.getElementById("first").innerHTML="Paragraph contents modified by a demoFunction";
 }
